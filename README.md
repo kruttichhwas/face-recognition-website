@@ -1,4 +1,4 @@
-# host
-repo for face recognition project website
+# Face Recognition Website
+Host Repository for Face Recognition Project website.
 
-link: 
+link: [https://kruttichhwas.github.io/face-recognition-website/](https://kruttichhwas.github.io/face-recognition-website/)
